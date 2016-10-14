@@ -7,23 +7,17 @@ creator:
     city: DC
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Pandas, Plotting, & Project 2
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Practicing Joins w/ THE LEAGUE OF EVIL! pt. 2
 
-## Introduction
+## Scenario
 
-We are going to practice using pivot tables and plotting on a new data set.
+Your superiors at THE LEAGUE OF EVIL! were so impressed by your performance yesterday, that they decided to show off your talents to the #1 evil group in the world, The Legion of Doom! Lex Luther has agreed to meet you tomorrow, so you'd better not disappoint. Read through the instructions carefully, to construct the most evil of data analyses for him.
 
 #### Requirements
 
-- Read in the [billboard.csv](./assets/datasets/billboard.csv) file
-- Create a pivot table, using artist as the index
-- Create a pivot table, using artist and track as the indices
-- Find out the number of weeks each song has been on the billboard
-- Plot track on one axis and number of weeks on the billboard on the other axis
+Use the following database in the assets folder:
+marvel.csv
 
-**Bonus:**
-- Use Tableau to plot track vs. number of weeks on the billboard
+All plotting MUST be done in the pandas dataframe. Plotting with Matplotlib (not show), Tableau, and Seaborn are strictly forbidden in this lab.
 
-#### Starter code
-
-[The starter code is located here](./code/starter-code/).
+Follow the instructions to help evil with your data science skills!
