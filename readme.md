@@ -1,10 +1,10 @@
 ---
 title: Pandas, Plotting, & Project 2
 type: lab
-duration: "1:5"
+duration: "2:30"
 creator:
-    name: Lucy Williams
-    city: DC
+    name: Brad Zimmerman
+    city: SEA
 ---
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Practicing Joins w/ THE LEAGUE OF EVIL! pt. 2
